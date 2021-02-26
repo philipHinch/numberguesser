@@ -1,4 +1,4 @@
-//VARIABLES GMAE
+//VARIABLES GAME
 let min = 1;
 let max = 10;
 let winningNum = getWinningNum();
